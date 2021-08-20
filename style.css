@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+}
+
+img {
+    border-radius: 70%;
+    height: 300;
+    width: 450;
+}
+
+#Welcome {
+    background: linear-gradient(#972ded 0%, #47ed63 100%);
+    font-size: 40
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: #000;
+    margin: auto;
+}
+
+#bio {
+    background: linear-gradient(#03f8fc 0%, #f70800 100%);
+}
+
+p {
+    font-size: 47
+}
+
+h1 {
+    font-size: 50
+}
+
+.menu {
+    list-style: none;
+    cursor: pointer;
+}
+
+.link {
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: 'Allison', cursive;
+    font-size: 40px;
+}
+.link2 {
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: 'Allison', cursive;
+    font-size: 40px;
+}
